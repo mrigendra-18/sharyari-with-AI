@@ -12,7 +12,6 @@ A **Shayari Generator** web application that leverages Google Gemini AI to creat
 ## Table of Contents
 
 - [Deployed Link](#deployed-link)
-- [Screenshots](#screenshots)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
